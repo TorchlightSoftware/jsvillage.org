@@ -1,3 +1,3 @@
-# JS Village
+# JS Village - August Projects
 
-A showcase for work from the Phoenix Javascript community.
+Landing page for projects to be done in August 2016.
